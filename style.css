@@ -5,6 +5,10 @@ body {
     padding: 0;
 }
 
+header h1 {
+    text-align: center;
+}
+
 header {
     background: #003366;
     color: #fff;
